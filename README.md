@@ -2,14 +2,14 @@ run " python Mighty_tertis.py " to play tertis.
 
 code uses all concepts of python(like:modularity,inharetence,etc)
 
-                                  #Controls
+                                  # Controls
 
 A           -> move left
 S           -> rotate
 D           -> move right
 SPACE       -> sudden fall
 
-                                 #Rouls
+                                 # Rouls
 
 put all blocks in line to make it disaper
 land 1 block and 20 points
